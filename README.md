@@ -1,7 +1,7 @@
 # youtube_text_data_analysis
 
 ## Overview
-This project is divided into three categories.
+This project is divided into Four categories. This project iS based on Youtube comments and video and perform analysis on the comments, likes, dislikes, views and emojis used to comment in the video.
 
 ### Step 1:
 Performing Sentiment analysis on the comments on youtube videos and classifying them in positive and negative comments.
